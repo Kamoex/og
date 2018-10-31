@@ -1,0 +1,29 @@
+{
+  "name": "our_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "anywhere": "^1.4.0",
+    "async": "^2.6.1",
+    "cnpm": "^5.1.1",
+    "dtsmake": "^0.0.10",
+    "electron": "^1.7.8",
+    "electron-prebuilt": "^1.4.13",
+    "express-generator": "^4.15.0",
+    "layanative": "^1.2.12",
+    "layadcc": "^1.8.3",
+    "nodemon": "^1.12.1",
+    "protobufjs": "^6.8.8",
+    "typescript": "^3.0.3",
+    "typings": "^2.1.1",
+    "tslint": "^5.7.0",
+    "npm": "^6.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

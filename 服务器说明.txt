@@ -1,0 +1,12 @@
+服务器说明 如果又新添后续再补充
+
+
+服务器目录
+	1.Launch：输出目录 服务器发布代码
+	2.code：开发代码
+		|- message/proto 中存放定义的协议原型
+
+消息生成 使用porotobufjs第三方库
+	1.message_build.bat 自动生成消息
+
+yohohoho
