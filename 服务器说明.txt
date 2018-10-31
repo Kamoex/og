@@ -8,10 +8,3 @@
 
 消息生成 使用porotobufjs第三方库
 	1.message_build.bat 自动生成消息
-
-yohohoho
-gggggg
-
-11111
-222222
-333333
